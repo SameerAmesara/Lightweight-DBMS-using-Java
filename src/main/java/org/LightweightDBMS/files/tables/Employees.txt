@@ -1,0 +1,5 @@
+e_id-e_name
+int-varchar
+1-Sanjay
+2-Nisarg
+3-Jay

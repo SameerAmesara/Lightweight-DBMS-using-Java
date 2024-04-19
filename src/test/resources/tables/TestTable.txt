@@ -1,0 +1,2 @@
+column1-int-column2-varchar
+42-testValue

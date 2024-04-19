@@ -1,0 +1,3 @@
+column1-int-column2-varchar
+1-A
+3-C

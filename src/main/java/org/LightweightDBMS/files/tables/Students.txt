@@ -1,0 +1,2 @@
+s_id-s_name
+int-varchar
